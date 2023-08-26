@@ -1,0 +1,49 @@
+year,macroeconomic,percent
+2011,Interest Rate,0.109
+2012,Interest Rate,0.11
+2013,Interest Rate,0.1209
+2014,Interest Rate,0.1141
+2015,Interest Rate,0.0984
+2016,Interest Rate,0.0929
+2017,Interest Rate,0.1133
+2018,Interest Rate,0.1247
+2019,Interest Rate,0.1213
+2020,Interest Rate,0.1011
+2021,Interest Rate,0.0843
+2022,Interest Rate,0.1162
+2011,Inflation,0.096
+2012,Inflation,0.083
+2013,Inflation,0.099
+2014,Inflation,0.09
+2015,Inflation,0.072
+2016,Inflation,0.099
+2017,Inflation,0.045
+2018,Inflation,0.041
+2019,Inflation,0.046
+2020,Inflation,0.061
+2021,Inflation,0.036
+2022,Inflation,0.063
+2011,GDP Growth Rate,0.034
+2012,GDP Growth Rate,0.047
+2013,GDP Growth Rate,0.035
+2014,GDP Growth Rate,0.06
+2015,GDP Growth Rate,0.04
+2016,GDP Growth Rate,0.004
+2017,GDP Growth Rate,0.09
+2018,GDP Growth Rate,0.076
+2019,GDP Growth Rate,0.067
+2020,GDP Growth Rate,-0.024
+2021,GDP Growth Rate,0.042
+2022,GDP Growth Rate,0.058
+2011,Stock Market Capitalization to GDP,0.24
+2012,Stock Market Capitalization to GDP,0.236
+2013,Stock Market Capitalization to GDP,0.302
+2014,Stock Market Capitalization to GDP,0.548
+2015,Stock Market Capitalization to GDP,0.466
+2016,Stock Market Capitalization to GDP,0.841
+2017,Stock Market Capitalization to GDP,0.694
+2018,Stock Market Capitalization to GDP,0.471
+2019,Stock Market Capitalization to GDP,0.452
+2020,Stock Market Capitalization to GDP,0.461
+2021,Stock Market Capitalization to GDP,0.938
+2022,Stock Market Capitalization to GDP,0.591
